@@ -1,9 +1,9 @@
 <html>
-	<head>
-		<link href="style.css" rel="stylesheet">
-		<title>Harsh Turankar resume</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-	</head>
+<head>
+<link href="style.css" rel="stylesheet">
+<title>Harsh Turankar resume</title>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
