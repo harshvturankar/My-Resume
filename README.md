@@ -118,13 +118,10 @@ h1, h2, h3 {
                     <p>
                             Unified Mentor | 2024 - present
                     </p>
-                    <p>
-                            
-			    
+                    <p>	    
                     </p>
                     <ul>
-                           
-				    <li>Learned about web development tools </li>
+                        	    <li>Learned about web development tools </li>
 				    <li>developed personal portfolio website</li>
                     </ul>
 				</section>
